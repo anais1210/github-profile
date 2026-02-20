@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm a fullstack developer <br>🇫🇷 Based in France<br>✨ Currently working on personal project to scale up my skills, and become a better day by day <br>👀 I'm looking for a new job as a fullstack developer in France, feel free to reach out, <br>☕️ Or we can also have a cup of coffee to discuss about new innovative projects
+💻 I'm a fullstack developer <br>🇫🇷 I'm French<br>✨ Currently working on personal project to scale up my skills, and become a better day by day <br>👀 I'm looking for a new job as a fullstack developer in France, feel free to reach out, <br>☕️ Or we can also have a cup of coffee to discuss about new innovative projects
 
 
 ## 🌐 Socials:
